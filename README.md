@@ -11,6 +11,6 @@ Just clone and own...
  
  # License
  
- MIT licensed
+ MIT
  
- comcy @ 2019
+Copyright (c) 2018 Christian Silfang
